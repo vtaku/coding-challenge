@@ -16,6 +16,13 @@ Do your best, even if you can't complete the whole task! We will reach out to sc
 
 You have until noon on Sunday, July 25th to complete the code challenge.
 
+## Submission guidelines
+- Email the following to the organizer:
+   - The github URL (please make it public or invite @VagishVela to it)
+   - The heroku url to view the website 
+
+## Interesting reads
+
 Some resources you might find interesting:
  - [How to make great commit messages](https://chris.beams.io/posts/git-commit/)
  - [Rails documentation](https://guides.rubyonrails.org/index.html)
